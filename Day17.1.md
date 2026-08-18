@@ -491,7 +491,3 @@ For beginners, learn Kubernetes in this order:
 ```
 
 ---
-
-## License
-
-This cheat sheet is intended for learning and educational purposes.
